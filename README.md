@@ -16,5 +16,6 @@ Here are some resources I will be using for learning/reference:<br>
 -Learn CSS Layout the Pedantic Way (link: http://book.mixu.net/css)<br>
 -PHP the Right Way (link: https://phptherightway.com/)<br>
 -the Gitflow workflow (link: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+-Head First Software Development
 
 
